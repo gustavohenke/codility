@@ -1,2 +1,5 @@
 # Codility Solutions
-https://codility.com/programmers/lessons/
+
+Each directory represents a training category on Codility's website.
+
+- [Lessons](./lessons/)
